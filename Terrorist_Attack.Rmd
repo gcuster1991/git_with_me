@@ -3,7 +3,7 @@ title: "Explore Global Terrorist Attack"
 output: html_document
 ---
 
-here is a comment 
+here is a comment and this time we add a comment using R. Lets see if it'll commit
 [The Gloabl Terrorism database (GDS)](http://start.umd.edu/gtd/) is an open-source database including information on terrorist attacks around the world from 1970 through 2015. The dataset I am using contains more than 150,000 terrorism attacks worldwide from 1970 to 2015 except 1993.  
 
 ```{r global_options, include=FALSE}
