@@ -1,7 +1,7 @@
 # git_with_me
-This is for my Comp Bio project in which I try and teach git basics
+This project is for Comp Bio.  In this project I hope to teach git basics and send you on your way with the tools for mastering version control.
 
-this line is from r studio
 
-This line is from r stuido. 
+
+Write your changes below this line:
 
