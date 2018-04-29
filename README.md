@@ -6,4 +6,4 @@ This project is for Comp Bio.  In this project I hope to teach git basics and se
 Write your changes below this line:
 This is my first change via terminal.
 This is my first change via R studio.
-I made this change while working on my poster.
+I made this change while working on my poster for class.
