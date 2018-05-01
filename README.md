@@ -7,4 +7,5 @@ Write your changes below this line:
 12345. Testing for a single file addition.
 This is my first change via terminal.
 This is my first change via R studio.
+emily thanks for a great activity Gordon!
 I made this change while working on my poster for class.
