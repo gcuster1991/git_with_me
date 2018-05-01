@@ -4,7 +4,7 @@ This project is for Comp Bio.  In this project I hope to teach git basics and se
 Type type type:
 
 Write your changes below this line:
-1. Testing for a single file addition.
+122. Testing for a single file addition.
 This is my first change via terminal.
 This is my first change via R studio.
 I made this change while working on my poster for class.
