@@ -3,7 +3,9 @@ This project is for Comp Bio.  In this project I hope to teach git basics and se
 
 Type type type:
 
+
 Write your changes below this line:
+This is for the tutorial
 hello there
 12345. Testing for a single file addition.
 This is my first change via terminal.
